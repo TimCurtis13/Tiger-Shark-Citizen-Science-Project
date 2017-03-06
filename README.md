@@ -51,7 +51,7 @@
       <p class="w3-text-grey">More Tiger Shark Info</p>
     </div>
 
-<a title=Tiger-Shark-Citizen-Science-Project/IMG_2557.jpg/></a>
+
   
 
 <!-- Second Grid -->
