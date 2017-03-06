@@ -20,9 +20,9 @@
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Explore Data</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Match ID</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Submit Data</a>
-     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Map</a>
-      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Research</a>
-       <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About Us</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Map</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Research</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About Us</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact Us</a>
   </div>
 
@@ -30,7 +30,7 @@
 
 <!-- Header -->
 <header class="w3-container w3-red w3-center w3-padding-128">
-  <h1 class="w3-margin w3-jumbo">START PAGE</h1>
+  <h1 class="w3-margin w3-jumbo">Tiger Shark Catchy Project Name</h1>
   <p class="w3-xlarge">Template by w3.css</p>
   <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button>
 </header>
