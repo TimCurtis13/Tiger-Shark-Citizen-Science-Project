@@ -36,6 +36,8 @@
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-green">About Us</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-green">Contact Us</a>
 </div>
+</div>
+
 <!-- Header -->
 <header class="w3-container w3-red w3-center w3-padding-128">
   <h1 class="w3-margin w3-jumbo">"Tiger Shark Catchy Project Name"</h1>
@@ -48,9 +50,9 @@
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Tiger Sharks</h1>
-      <h5 class="w3-padding-32">"Info about Tiger Sharks"</h5>
+      <h5 class="w3-padding-32">Info about Tiger Sharks</h5>
 
-      <p class="w3-text-grey">"More Tiger Shark Info"</p>
+      <p class="w3-text-grey">More Tiger Shark Info</p>
     </div>
 
     <div class="w3-third w3-center">
@@ -68,9 +70,9 @@
 
     <div class="w3-twothird">
       <h1>Citizen Science</h1>
-      <h5 class="w3-padding-32">"Citizen Science Stuff"</h5>
+      <h5 class="w3-padding-32">Citizen Science Stuff</h5>
 
-      <p class="w3-text-grey">"Citizen Science Info"</p>
+      <p class="w3-text-grey">Citizen Science Info</p>
     </div>
   </div>
 </div>
