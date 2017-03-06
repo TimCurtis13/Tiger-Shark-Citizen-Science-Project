@@ -56,7 +56,7 @@
     </div>
 
     <div class="w3-third w3-center">
-      <i class="fa fa-anchor w3-padding-64 w3-text-green"></i>
+      <i class="">"IMG_2556.jpg</i>
     </div>
   </div>
 </div>
