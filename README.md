@@ -57,7 +57,6 @@
 
     <div class="w3-third w3-center">
       <i class=""> <p>w3-round-small:</p>
- #insert image of TIGER SHARK HERE
     </div>
   </div>
 </div>
@@ -66,7 +65,6 @@
 <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-third w3-center">
-   #INSERT IMAGE OF TIGER SHARK HERE
     </div>
 
     <div class="w3-twothird">
