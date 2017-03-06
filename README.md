@@ -15,7 +15,7 @@
 <!-- Navbar -->
 <div class="w3-top">
   <div class="w3-bar w3-red w3-card-2 w3-left-align w3-large">
-    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-opennav w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-opennav w3-right w3-padding-large w3-hover-white w3-large w3-green" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large w3-green">Home</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Explore Data</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Match ID</a>
@@ -42,7 +42,7 @@
       <h1>Tiger Sharks</h1>
       <h5 class="w3-padding-32">Info about Tiger Sharks</h5>
 
-      <p class="w3-text-grey">More Tiger Shark Infor</p>
+      <p class="w3-text-grey">More Tiger Shark Info</p>
     </div>
 
     <div class="w3-third w3-center">
