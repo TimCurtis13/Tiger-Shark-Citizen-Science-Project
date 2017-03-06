@@ -34,17 +34,17 @@
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Contact Us</a>
 </div>
 </div>
-<!DOCTYPE html>
-<html>
+
+
+<!-- Header -->
+<header class="w3-container w3-<html>
 <body>
 
-<h2>dljdsfdskflkds</h2>
 <img src="https://raw.githubusercontent.com/TimCurtis13/Tiger-Shark-Citizen-Science-Project/master/IMG_2557.jpg" alt="Tiger Shark" style="width:304px;height:228px;">
 
 </body>
-</html>
-<!-- Header -->
-<header class="w3-container w3-green w3-center w3-padding-128">
+</html> w3-center w3-padding-128">
+
   <h1 class="w3-margin w3-jumbo">Tiger Shark Catchy Project Name</h1>
   <button class="w3-button w3-white w3-padding-large w3-large w3-margin-top">Get Started</button>
 </header>
