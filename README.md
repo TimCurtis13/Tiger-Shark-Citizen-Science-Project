@@ -55,11 +55,7 @@
       <p class="w3-text-grey">More Tiger Shark Info</p>
     </div>
 
-    <div class="w3-third w3-center">
-      <i class=""> <p>w3-round-small:</p>
-    </div>
-  </div>
-</div>
+  
 
 <!-- Second Grid -->
 <div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
