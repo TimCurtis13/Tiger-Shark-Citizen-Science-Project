@@ -76,7 +76,7 @@
 
 </div>
 
-<img class="w3-image" src="https://flic.kr/p/StKJ2j" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
+<img class="w3-image" src="https://flic.kr/p/StKJ2j" style="min-width:1000px" width="1500" height="800">
 
 <script>
 // Used to toggle the menu on small screens when clicking on the menu button
